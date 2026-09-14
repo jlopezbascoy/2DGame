@@ -3,6 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+2DGame.iml
+.idea
 
 ### Eclipse ###
 .apt_generated
